@@ -1,0 +1,48 @@
+User-agent: *
+Disallow: /admin/ 
+Disallow: /account/
+Disallow: *?route=*
+Disallow: *?limit=*
+Disallow: *?sort=*
+Disallow: /checkout/cart.html
+Disallow: /checkout/checkout.html
+Disallow: /checkout/success.html
+Disallow: /information/contact.html
+Disallow: /information/contact/success.html
+Disallow: /account/account.html
+
+Disallow: /katalog-produktsii/*
+
+User-agent: Googlebot
+Disallow: /admin/ 
+Disallow: /account/
+Disallow: *?route=*
+Disallow: *?limit=*
+Disallow: *?sort=*
+Disallow: /checkout/cart.html
+Disallow: /checkout/checkout.html
+Disallow: /checkout/success.html
+Disallow: /information/contact.html
+Disallow: /information/contact/success.html
+Disallow: /account/account.html
+
+Disallow: /katalog-produktsii/*
+
+User-agent: Yandex
+Disallow: /admin/ 
+Disallow: /account/
+Disallow: *?route=*
+Disallow: *?limit=*
+Disallow: *?sort=*
+Disallow: /checkout/cart.html
+Disallow: /checkout/checkout.html
+Disallow: /checkout/success.html
+Disallow: /information/contact.html
+Disallow: /information/contact/success.html
+Disallow: /account/account.html
+
+Disallow: /katalog-produktsii/*
+
+Host: elektrotopka.com.ua
+
+Sitemap:http://elektrotopka.com.ua/sitemap.xml

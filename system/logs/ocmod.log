@@ -1,0 +1,509 @@
+2015-06-13 16:39:17 - MOD: Modification Default
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 58
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 20
+LINE: 37
+LINE: 54
+LINE: 65
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 27
+----------------------------------------------------------------
+2015-06-13 16:39:34 - MOD: Modification Default
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 58
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 20
+LINE: 37
+LINE: 54
+LINE: 65
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 27
+----------------------------------------------------------------
+2015-06-13 16:51:26 - MOD: Modification Default
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 58
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 20
+LINE: 37
+LINE: 54
+LINE: 65
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 27
+----------------------------------------------------------------
+2015-06-13 16:52:40 - MOD: Modification Default
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 58
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 20
+LINE: 37
+LINE: 54
+LINE: 65
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 27
+----------------------------------------------------------------
+2015-06-13 16:56:51 - MOD: Modification Default
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 58
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 20
+LINE: 37
+LINE: 54
+LINE: 65
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 27
+----------------------------------------------------------------
+Modification::refresh - Processing 'News'
+Modification::refresh - SEARCH NOT FOUND (ABORTING MOD):
+  file name = 'C:\wamp\www\electrotopka/catalog/view/theme/themegloballite/template/common/footer.tpl'
+  search = '<li><a href="<?php echo $voucher; ?>"><?php echo $text_voucher; ?></a></li>'
+----------------------------------------------------------------
+Modification::refresh - Processing 'ThemeGlobal Carousel'
+Modification::refresh - Done 'ThemeGlobal Carousel'
+----------------------------------------------------------------
+Modification::refresh - Processing 'ThemeGlobal Notification'
+Modification::refresh - Done 'ThemeGlobal Notification'
+----------------------------------------------------------------
+2015-06-13 18:08:28 - MOD: Modification Default
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 58
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 20
+LINE: 37
+LINE: 54
+LINE: 65
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 27
+----------------------------------------------------------------
+Modification::refresh - Processing 'News'
+Modification::refresh - SEARCH NOT FOUND (ABORTING MOD):
+  file name = 'C:\wamp\www\electrotopka/catalog/view/theme/themegloballite/template/common/footer.tpl'
+  search = '<li><a href="<?php echo $voucher; ?>"><?php echo $text_voucher; ?></a></li>'
+----------------------------------------------------------------
+Modification::refresh - Processing 'ThemeGlobal Carousel'
+Modification::refresh - Done 'ThemeGlobal Carousel'
+----------------------------------------------------------------
+Modification::refresh - Processing 'ThemeGlobal Notification'
+Modification::refresh - Done 'ThemeGlobal Notification'
+----------------------------------------------------------------
+2015-06-13 19:51:06 - MOD: Modification Default
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 58
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 20
+LINE: 37
+LINE: 54
+LINE: 65
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 27
+----------------------------------------------------------------
+Modification::refresh - Processing 'AJAX QUICK CHECKOUT LITE V5.0 BY DREAMVENTION'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = 'C:\wamp\www\electrotopka/catalog/model/setting/setting.php'
+  search = '$data[$result['key']] = unserialize($setting['value']);'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = 'C:\wamp\www\electrotopka/admin/model/setting/setting.php'
+  search = '$data[$result['key']] = unserialize($setting['value']);'
+Modification::refresh - SEARCH NOT FOUND (ABORTING MOD):
+  file name = 'C:\wamp\www\electrotopka/catalog/view/theme/default/template/payment/cheque.tpl'
+  search = '$('#button-confirm').bind('click', function() {'
+----------------------------------------------------------------
+Modification::refresh - Processing 'News'
+Modification::refresh - SEARCH NOT FOUND (ABORTING MOD):
+  file name = 'C:\wamp\www\electrotopka/catalog/view/theme/themegloballite/template/common/footer.tpl'
+  search = '<li><a href="<?php echo $voucher; ?>"><?php echo $text_voucher; ?></a></li>'
+----------------------------------------------------------------
+Modification::refresh - Processing 'ThemeGlobal Carousel'
+Modification::refresh - Done 'ThemeGlobal Carousel'
+----------------------------------------------------------------
+Modification::refresh - Processing 'ThemeGlobal Notification'
+Modification::refresh - Done 'ThemeGlobal Notification'
+----------------------------------------------------------------
+2015-06-13 20:39:24 - MOD: Modification Default
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 58
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 20
+LINE: 37
+LINE: 54
+LINE: 65
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 27
+----------------------------------------------------------------
+Modification::refresh - Processing 'AJAX QUICK CHECKOUT LITE V5.0 BY DREAMVENTION'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = 'C:\wamp\www\electrotopka/catalog/model/setting/setting.php'
+  search = '$data[$result['key']] = unserialize($setting['value']);'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = 'C:\wamp\www\electrotopka/admin/model/setting/setting.php'
+  search = '$data[$result['key']] = unserialize($setting['value']);'
+Modification::refresh - SEARCH NOT FOUND (ABORTING MOD):
+  file name = 'C:\wamp\www\electrotopka/catalog/view/theme/default/template/payment/cheque.tpl'
+  search = '$('#button-confirm').bind('click', function() {'
+----------------------------------------------------------------
+Modification::refresh - Processing 'News'
+Modification::refresh - SEARCH NOT FOUND (ABORTING MOD):
+  file name = 'C:\wamp\www\electrotopka/catalog/view/theme/themegloballite/template/common/footer.tpl'
+  search = '<li><a href="<?php echo $voucher; ?>"><?php echo $text_voucher; ?></a></li>'
+----------------------------------------------------------------
+Modification::refresh - Processing 'ThemeGlobal Carousel'
+Modification::refresh - Done 'ThemeGlobal Carousel'
+----------------------------------------------------------------
+Modification::refresh - Processing 'ThemeGlobal Notification'
+Modification::refresh - Done 'ThemeGlobal Notification'
+----------------------------------------------------------------
+2015-06-18 19:50:07 - MOD: Modification Default
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 58
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 20
+LINE: 37
+LINE: 54
+LINE: 65
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 27
+----------------------------------------------------------------
+Modification::refresh - Processing 'AJAX QUICK CHECKOUT LITE V5.0 BY DREAMVENTION'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/host1397658/eugencode.ru/htdocs/test/catalog/model/setting/setting.php'
+  search = '$data[$result['key']] = unserialize($setting['value']);'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/host1397658/eugencode.ru/htdocs/test/admin/model/setting/setting.php'
+  search = '$data[$result['key']] = unserialize($setting['value']);'
+Modification::refresh - SEARCH NOT FOUND (ABORTING MOD):
+  file name = '/home/host1397658/eugencode.ru/htdocs/test/catalog/view/theme/default/template/payment/cheque.tpl'
+  search = '$('#button-confirm').bind('click', function() {'
+----------------------------------------------------------------
+Modification::refresh - Processing 'News'
+Modification::refresh - SEARCH NOT FOUND (ABORTING MOD):
+  file name = '/home/host1397658/eugencode.ru/htdocs/test/catalog/view/theme/themegloballite/template/common/footer.tpl'
+  search = '<li><a href="<?php echo $voucher; ?>"><?php echo $text_voucher; ?></a></li>'
+----------------------------------------------------------------
+Modification::refresh - Processing 'ThemeGlobal Carousel'
+Modification::refresh - Done 'ThemeGlobal Carousel'
+----------------------------------------------------------------
+Modification::refresh - Processing 'ThemeGlobal Notification'
+Modification::refresh - Done 'ThemeGlobal Notification'
+----------------------------------------------------------------
+MOD: Easy Blog for oc2011+
+CODE: return $this->load->view('common/menu.tpl', $data);
+LINE: 213
+CODE: <li id="system"><a class="parent"><i class="fa fa-cog fa-fw"></i> <span><?php echo $text_system; ?></span></a>
+LINE: 122
+FILE: admin/language/english/common/menu.php
+CODE: $_['text_user']                        = 'Users';
+LINE: 79
+CODE: <?php foreach ($informations as $information) { ?>
+LINE: 10
+CODE: $data['informations'] = array();
+LINE: 32
+----------------------------------------------------------------
+2015-06-20 11:49:10 - MOD: Modification Default
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 58
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 20
+LINE: 37
+LINE: 54
+LINE: 65
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 27
+----------------------------------------------------------------
+Modification::refresh - Processing 'AJAX QUICK CHECKOUT LITE V5.0 BY DREAMVENTION'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/host1397658/eugencode.ru/htdocs/test/catalog/model/setting/setting.php'
+  search = '$data[$result['key']] = unserialize($setting['value']);'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/host1397658/eugencode.ru/htdocs/test/admin/model/setting/setting.php'
+  search = '$data[$result['key']] = unserialize($setting['value']);'
+Modification::refresh - SEARCH NOT FOUND (ABORTING MOD):
+  file name = '/home/host1397658/eugencode.ru/htdocs/test/catalog/view/theme/default/template/payment/cheque.tpl'
+  search = '$('#button-confirm').bind('click', function() {'
+----------------------------------------------------------------
+Modification::refresh - Processing 'ThemeGlobal Carousel'
+Modification::refresh - Done 'ThemeGlobal Carousel'
+----------------------------------------------------------------
+Modification::refresh - Processing 'ThemeGlobal Notification'
+Modification::refresh - Done 'ThemeGlobal Notification'
+----------------------------------------------------------------
+MOD: Easy Blog for oc2011+
+FILE: admin/controller/common/menu.php
+CODE: return $this->load->view('common/menu.tpl', $data);
+LINE: 210
+FILE: admin/view/template/common/menu.tpl
+CODE: <li id="system"><a class="parent"><i class="fa fa-cog fa-fw"></i> <span><?php echo $text_system; ?></span></a>
+LINE: 119
+FILE: admin/language/english/common/menu.php
+CODE: $_['text_user']                        = 'Users';
+LINE: 79
+FILE: catalog/view/theme/default/template/common/footer.tpl
+CODE: <?php foreach ($informations as $information) { ?>
+LINE: 10
+FILE: catalog/controller/common/footer.php
+CODE: $data['informations'] = array();
+LINE: 28
+----------------------------------------------------------------
+2015-06-20 15:03:31 - MOD: Modification Default
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 58
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 20
+LINE: 37
+LINE: 54
+LINE: 65
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 27
+----------------------------------------------------------------
+Modification::refresh - Processing 'AJAX QUICK CHECKOUT LITE V5.0 BY DREAMVENTION'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/host1397658/eugencode.ru/htdocs/test/catalog/model/setting/setting.php'
+  search = '$data[$result['key']] = unserialize($setting['value']);'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/host1397658/eugencode.ru/htdocs/test/admin/model/setting/setting.php'
+  search = '$data[$result['key']] = unserialize($setting['value']);'
+Modification::refresh - SEARCH NOT FOUND (ABORTING MOD):
+  file name = '/home/host1397658/eugencode.ru/htdocs/test/catalog/view/theme/default/template/payment/cheque.tpl'
+  search = '$('#button-confirm').bind('click', function() {'
+----------------------------------------------------------------
+Modification::refresh - Processing 'ThemeGlobal Carousel'
+Modification::refresh - Done 'ThemeGlobal Carousel'
+----------------------------------------------------------------
+Modification::refresh - Processing 'ThemeGlobal Notification'
+Modification::refresh - Done 'ThemeGlobal Notification'
+----------------------------------------------------------------
+MOD: Easy Blog for oc2011+
+FILE: admin/controller/common/menu.php
+CODE: return $this->load->view('common/menu.tpl', $data);
+LINE: 210
+FILE: admin/view/template/common/menu.tpl
+CODE: <li id="system"><a class="parent"><i class="fa fa-cog fa-fw"></i> <span><?php echo $text_system; ?></span></a>
+LINE: 119
+FILE: admin/language/english/common/menu.php
+CODE: $_['text_user']                        = 'Users';
+LINE: 79
+FILE: catalog/view/theme/default/template/common/footer.tpl
+CODE: <?php foreach ($informations as $information) { ?>
+LINE: 10
+FILE: catalog/controller/common/footer.php
+CODE: $data['informations'] = array();
+LINE: 28
+----------------------------------------------------------------
+2015-06-23 18:56:28 - MOD: Modification Default
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 58
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 20
+LINE: 37
+LINE: 54
+LINE: 65
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 27
+----------------------------------------------------------------
+Modification::refresh - Processing 'AJAX QUICK CHECKOUT LITE V5.0 BY DREAMVENTION'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/valpower/elektrotopka.com.ua/new/catalog/model/setting/setting.php'
+  search = '$data[$result['key']] = unserialize($setting['value']);'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/valpower/elektrotopka.com.ua/new/admin/model/setting/setting.php'
+  search = '$data[$result['key']] = unserialize($setting['value']);'
+Modification::refresh - SEARCH NOT FOUND (ABORTING MOD):
+  file name = '/home/valpower/elektrotopka.com.ua/new/catalog/view/theme/default/template/payment/cheque.tpl'
+  search = '$('#button-confirm').bind('click', function() {'
+----------------------------------------------------------------
+Modification::refresh - Processing 'ThemeGlobal Carousel'
+Modification::refresh - Done 'ThemeGlobal Carousel'
+----------------------------------------------------------------
+Modification::refresh - Processing 'ThemeGlobal Notification'
+Modification::refresh - Done 'ThemeGlobal Notification'
+----------------------------------------------------------------
+MOD: Easy Blog for oc2011+
+FILE: admin/controller/common/menu.php
+CODE: return $this->load->view('common/menu.tpl', $data);
+LINE: 210
+FILE: admin/view/template/common/menu.tpl
+CODE: <li id="system"><a class="parent"><i class="fa fa-cog fa-fw"></i> <span><?php echo $text_system; ?></span></a>
+LINE: 119
+FILE: admin/language/english/common/menu.php
+CODE: $_['text_user']                        = 'Users';
+LINE: 79
+FILE: catalog/view/theme/default/template/common/footer.tpl
+CODE: <?php foreach ($informations as $information) { ?>
+LINE: 10
+FILE: catalog/controller/common/footer.php
+CODE: $data['informations'] = array();
+LINE: 28
+----------------------------------------------------------------
+2015-06-23 19:10:09 - MOD: Modification Default
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 58
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 20
+LINE: 37
+LINE: 54
+LINE: 65
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 27
+----------------------------------------------------------------
+Modification::refresh - Processing 'AJAX QUICK CHECKOUT LITE V5.0 BY DREAMVENTION'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/valpower/elektrotopka.com.ua/new/catalog/model/setting/setting.php'
+  search = '$data[$result['key']] = unserialize($setting['value']);'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/valpower/elektrotopka.com.ua/new/admin/model/setting/setting.php'
+  search = '$data[$result['key']] = unserialize($setting['value']);'
+Modification::refresh - SEARCH NOT FOUND (ABORTING MOD):
+  file name = '/home/valpower/elektrotopka.com.ua/new/catalog/view/theme/default/template/payment/cheque.tpl'
+  search = '$('#button-confirm').bind('click', function() {'
+----------------------------------------------------------------
+Modification::refresh - Processing 'ThemeGlobal Carousel'
+Modification::refresh - Done 'ThemeGlobal Carousel'
+----------------------------------------------------------------
+Modification::refresh - Processing 'ThemeGlobal Notification'
+Modification::refresh - Done 'ThemeGlobal Notification'
+----------------------------------------------------------------
+MOD: Easy Blog for oc2011+
+FILE: admin/controller/common/menu.php
+CODE: return $this->load->view('common/menu.tpl', $data);
+LINE: 210
+FILE: admin/view/template/common/menu.tpl
+CODE: <li id="system"><a class="parent"><i class="fa fa-cog fa-fw"></i> <span><?php echo $text_system; ?></span></a>
+LINE: 119
+FILE: admin/language/english/common/menu.php
+CODE: $_['text_user']                        = 'Users';
+LINE: 79
+FILE: catalog/view/theme/default/template/common/footer.tpl
+CODE: <?php foreach ($informations as $information) { ?>
+LINE: 10
+FILE: catalog/controller/common/footer.php
+CODE: $data['informations'] = array();
+LINE: 28
+----------------------------------------------------------------
+2015-07-01 23:44:21 - MOD: Modification Default
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 58
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 20
+LINE: 37
+LINE: 54
+LINE: 65
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 27
+----------------------------------------------------------------
+Modification::refresh - Processing 'AJAX QUICK CHECKOUT LITE V5.0 BY DREAMVENTION'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/valpower/elektrotopka.com.ua/new/catalog/model/setting/setting.php'
+  search = '$data[$result['key']] = unserialize($setting['value']);'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/valpower/elektrotopka.com.ua/new/admin/model/setting/setting.php'
+  search = '$data[$result['key']] = unserialize($setting['value']);'
+Modification::refresh - SEARCH NOT FOUND (ABORTING MOD):
+  file name = '/home/valpower/elektrotopka.com.ua/new/catalog/view/theme/default/template/payment/cheque.tpl'
+  search = '$('#button-confirm').bind('click', function() {'
+----------------------------------------------------------------
+Modification::refresh - Processing 'ThemeGlobal Carousel'
+Modification::refresh - Done 'ThemeGlobal Carousel'
+----------------------------------------------------------------
+Modification::refresh - Processing 'ThemeGlobal Notification'
+Modification::refresh - Done 'ThemeGlobal Notification'
+----------------------------------------------------------------
+MOD: Easy Blog for oc2011+
+FILE: admin/controller/common/menu.php
+CODE: return $this->load->view('common/menu.tpl', $data);
+LINE: 210
+FILE: admin/view/template/common/menu.tpl
+CODE: <li id="system"><a class="parent"><i class="fa fa-cog fa-fw"></i> <span><?php echo $text_system; ?></span></a>
+LINE: 119
+FILE: admin/language/english/common/menu.php
+CODE: $_['text_user']                        = 'Users';
+LINE: 79
+FILE: catalog/view/theme/default/template/common/footer.tpl
+CODE: <?php foreach ($informations as $information) { ?>
+LINE: 10
+FILE: catalog/controller/common/footer.php
+CODE: $data['informations'] = array();
+LINE: 28
+----------------------------------------------------------------
