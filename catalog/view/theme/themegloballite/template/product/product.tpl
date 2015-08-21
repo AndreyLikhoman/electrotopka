@@ -387,7 +387,7 @@ include('catalog/view/theme/'.$config->get('config_template').'/template/themegl
 				<?php if ($attribute_group['attribute_group_id'] == '7') { ?>
 					
 					  <div class="prod-prefs">
-					  <h6><?php echo $attribute_group['name']; ?> 1</h6>
+					  <h6><?php echo $attribute_group['name']; ?> 1 block</h6>
 					  <ul>
 						<?php foreach ($attribute_group['attribute'] as $attribute) { ?>
 						<li>
@@ -401,7 +401,7 @@ include('catalog/view/theme/'.$config->get('config_template').'/template/themegl
 
 				<?php if ($attribute_group['attribute_group_id'] == '3') { ?>
 					  <div class="prod-charact">
-					  <h6><?php echo $attribute_group['name']; ?> 2</h6>
+					  <h6><?php echo $attribute_group['name']; ?> 2 block</h6>
 					  <ul>
 						<?php foreach ($attribute_group['attribute'] as $attribute) { ?>
 						<li>
